@@ -20,11 +20,11 @@ export default function City() {
                 15
               </span>
               <span className="units">
-                <a href="#" id="celsius-link" className="active">
+                <a href="/" id="celsius-link" className="active">
                   ºC
                 </a>{" "}
                 |
-                <a href="#" id="fahrenheit-link">
+                <a href="/" id="fahrenheit-link">
                   ºF
                 </a>
               </span>
