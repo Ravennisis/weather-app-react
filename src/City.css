@@ -1,0 +1,75 @@
+.City {
+  position: relative;
+  top: -46px;
+}
+
+.description {
+  font-size: 17px;
+  margin: 0px auto;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  left: 95px;
+  top: 36px;
+}
+
+.temp {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 1px;
+  padding: 0px;
+  position: relative;
+  left: 100px;
+  top: 36px;
+}
+
+.units {
+  position: relative;
+  bottom: -26px;
+  left: 106px;
+  font-size: 14px;
+}
+
+.icon {
+  display: block;
+  width: 53px;
+  position: absolute;
+  left: 40px;
+  top: 30px;
+}
+
+.TempToday .active {
+  cursor: default;
+  color: black;
+}
+
+.TempToday .active:hover {
+  text-decoration: none;
+}
+
+.realFeel {
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  top: 0px;
+  left: 179px;
+  font-size: 16px;
+  text-align: left;
+}
+
+.humidity {
+  position: relative;
+  right: -179px;
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+}
+
+.wind {
+  font-size: 16px;
+  position: relative;
+  right: -582px;
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+}
