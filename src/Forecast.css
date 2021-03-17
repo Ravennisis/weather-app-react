@@ -1,0 +1,23 @@
+.Forecast ul {
+  list-style: none;
+}
+
+.Forecast li {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+.Forecast img {
+  display: inline-block;
+  width: 60px;
+}
+
+hr {
+  border: none;
+  border-top: 4px double #333;
+  text-align: center;
+  height: 5px;
+  position: relative;
+  left: -23px;
+}
